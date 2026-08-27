@@ -1,0 +1,11 @@
+{
+  "name": "TFT Set 18 Trait Forge",
+  "short_name": "Trait Forge",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#080a14",
+  "theme_color": "#080a14",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
